@@ -1,0 +1,23 @@
+SPECIFICATION
+
+1. Tags HTML utilizadas:
+div, nav, main, section, article, 
+h1, h2, p, img, footer.
+
+2. Propriedades CSS utilizadas:
+background-color
+color
+font-size
+margin
+padding
+
+3. JavaScript:
+Foi utilizado JavaScript para implementar
+funcionalidades interativas, como a alteração
+do modo de visualização e botões dinâmicos.
+
+4. Bootstrap:
+Foi utilizado Bootstrap para criar o menu
+de navegação, cartões informativos e botões,
+facilitando a adaptação do website a diferentes
+tamanhos de ecrã.
